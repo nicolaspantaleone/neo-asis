@@ -1,0 +1,23 @@
+{
+  "name": "neo-asis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaspantaleone/neo-asis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolaspantaleone/neo-asis/issues"
+  },
+  "homepage": "https://github.com/nicolaspantaleone/neo-asis#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
